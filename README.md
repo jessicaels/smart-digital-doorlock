@@ -117,4 +117,4 @@ This project is a Smart Digital Door Lock System using RFID technology for secur
 
 # Code
 Code Structure : 
-1. Arduino : smart-digital-doorlock/code/arduino/smartdoor.ino
+1. Arduino : code/arduino/smartdoor.ino
