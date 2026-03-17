@@ -115,3 +115,6 @@ This project is a Smart Digital Door Lock System using RFID technology for secur
 | Positive (+) | GPIO 13      |
 | Negative (-) | GND          |
 
+# Code
+Code Structure : 
+1. Arduino : smart-digital-doorlock/code/arduino/smartdoor.ino
